@@ -21,8 +21,8 @@
 <font face='Times New Roman' color='blue' SIZE='3'>
 3. The third letter of ONE is E .
 
-![笔记1](images/5678.jpg)
-![笔记2](images/note2.jpg)
+![笔记1](images/b8c2ee0d76422d84d0200362bd03330.jpg)
+![笔记2](images/[note2](https://github.com/zhyhoianog/zhy/blob/main/b8c2ee0d76422d84d0200362bd03330.jpg?raw=true))
 ![笔记3](images/note3.jpg)
 
 ##这是我的模型
